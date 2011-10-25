@@ -163,9 +163,10 @@ describe "Failing Specs" do
   # function/method. Add or change any keys or values to make all of the examples
   # pass.
   def favorites
-    { :animal => 'giraffe', 
-      :color => 'blue', 
-      :drink => 'bloody mary', 
+    { :animal => 'tiger', 
+      :color => 'green', 
+      :drink => 'bloody mary',
+      :season => 'fall',
       :food => 'steak' }
   end
   
